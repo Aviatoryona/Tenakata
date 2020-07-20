@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Tenakata University</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_splash">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_get_location">GetLocationActivity</string>
+    <string name="title_activity_capture_info">@string/app_name</string>
+    <string name="show_all">Show All</string>
+
+    <string-array name="mstatus">
+        <item>Marital status</item>
+        <item>Married</item>
+        <item>Single</item>
+        <item>Divorced</item>
+    </string-array>
+    <string-array name="gender">
+        <item>Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Not say</item>
+    </string-array>
+    <string-array name="countries">
+        <item>Kenya</item>
+        <item>Other</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_display_data">@string/app_name</string>
+    <string name="select_country">Select country</string>
+
+</resources>
